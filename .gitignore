@@ -1,0 +1,11 @@
+/dataset
+/anaconda_projects
+/read.me.txt
+/ML_Case_Study.docx
+/dl_techniques/.ipynb_checkpoints
+/dl_techniques/.pt_tmp
+/dl_techniques/lightning_logs
+/dl_techniques/saved_models
+/dl_techniques/saved_models_changed
+/dl_techniques/unbalanced_training
+/ml_techniques
